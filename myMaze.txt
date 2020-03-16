@@ -1,0 +1,8 @@
+0 0 0 0
+0 1 0 1
+0 0 0 1
+1 1 0 0
+
+• maze1.txt Start (0,3) Goal (4,5)
+• maze2.txt Start (0,0) Goal (8,9)
+• maze3.txt Start (3,0) Goal (23,30)
